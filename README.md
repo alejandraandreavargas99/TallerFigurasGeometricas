@@ -1,0 +1,2 @@
+Este programa sobre heredación implementa un sistema de figuras geométricas especificamente de cuadrado y rectángulo. Se aplican conceptos de Herencia, Encapsulamiento y Polimorfismo. La clase padre valida si las dimensiones son mayores a 0, cuadrado el área y perímetro asumiendo que sus lados son iguales, y rectangulo implementa fórmulas para calcular base y altura.
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/bb5eee9f-aedf-4a2f-a456-bbc7746c184c" />
